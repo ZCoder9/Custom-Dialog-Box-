@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CustomDialogBox</string>
+    <string name="dialogMSG">This is my Custom Dialog Box</string>
+    <string name="dialogTitle">Alert Dialog</string>
+    <string name="positivebutton">Yes</string>
+    <string name="negativeButton">No</string>
+    <string name="dialogIcon">DIALOGICON</string>
+</resources>
